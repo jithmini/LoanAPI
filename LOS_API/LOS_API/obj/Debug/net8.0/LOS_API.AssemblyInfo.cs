@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LOS_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c8d4fbc07622aadd7c5e4e188fd86e7f361b8fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LOS_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LOS_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
